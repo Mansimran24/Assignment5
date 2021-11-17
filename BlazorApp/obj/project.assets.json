@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\Semester 2\\Introduction to ASP.Net\\Assignment5\\Assignment5\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\HP\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "C:\\Users\\HP\\Downloads\\Semester 2\\Introduction to ASP.Net\\Assignment5\\Assignment5\\BlazorApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\BlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\Semester 2\\Introduction to ASP.Net\\Assignment5\\Assignment5\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
